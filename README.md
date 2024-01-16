@@ -1,6 +1,8 @@
 # MPI-Project
 Message Passing Interface using Microsoft MPI and mpi4py library.
 
+Please read [project description](https://github.com/enfurars/MPI-Project/blob/main/MPI%20Project.pdf) for detailed information.
+
 ## Manuals to Run the Project
 - Install Python and add its executable to the PATH.
 - Install MPI from microsoft and add its executable to the PATH.
